@@ -1,2 +1,2 @@
-# OLA MUNDO 
- PRIMIRO CURSO  DE GIT E GIHUB
+# Olá, Mundo
+ Primeiro curso de git e github
